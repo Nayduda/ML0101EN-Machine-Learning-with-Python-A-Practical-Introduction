@@ -1,6 +1,8 @@
 # ML0101EN-Machine-Learning-with-Python-A-Practical-Introduction
 Online course offered by IBM on the EdX education platform.
 
+LEARNING OBJECTIVES
+
 In this course, you will:
 
 - Explore examples of Machine Learning and the libraries and languages used to create them.
